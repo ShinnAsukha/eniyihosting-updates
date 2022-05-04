@@ -6,4 +6,8 @@ Forum adresimize özel olarak eklediğimiz reklam alanlarından yararlanmaya haz
 # 04-05-2022 Forum Kategorileri Güncellemesi  
 Forum kategorilerimize getirdiğimiz yeni güncellememizde, daha fonksiyonlu ve daha çok seçenekli alt forumlar ekledik. Her forum için özel önekler, özel konu alanları ve özel sistemler getirdik.
 
+**Örnek**
+![image](https://user-images.githubusercontent.com/50636585/166677581-1bd293e7-26ac-49b9-a353-a581eb81156b.png)
+
+
 Ayrıca forum footer bölümümüz de düzeltildi. Göz atabilirsiniz...
