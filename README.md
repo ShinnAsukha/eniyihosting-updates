@@ -11,3 +11,17 @@ Forum kategorilerimize getirdiğimiz yeni güncellememizde, daha fonksiyonlu ve 
 
 
 Ayrıca forum footer bölümümüz de düzeltildi. Göz atabilirsiniz...
+
+
+# 05-05-2022 Forum Genel Güncellemesi
+Forum adresimiz için geçtiğimiz günlerde sizler için renk seçimi eklemiştik fakat bu renk seçimi sonucunda birkaç CSS sorunu yaşamıştık. Bu CSS sorunlarının tamamen çözüldüğünü bildirmekten mutluluk duyarız! Sizler için en iyi deneyimi yaşatmak bizim boynumuzun borcudur, forum adresimize kayıt olarak bize destek olabilirsiniz :)
+
+Renk Seçimi,
+![image](https://user-images.githubusercontent.com/50636585/166988620-71aed88b-3c20-41b6-a90f-05905b8af1dd.png)
+
+Renk Seçimi Bölümündeki Renkler,
+![image](https://user-images.githubusercontent.com/50636585/166988790-a1478c4c-a550-4f5d-939f-2fa45fc40229.png)
+
+Güncelleme sonrası seçilen renklerden bir örnek,
+![image](https://user-images.githubusercontent.com/50636585/166989514-ad4fec97-c239-4373-8529-52919a24df4a.png)
+![image](https://user-images.githubusercontent.com/50636585/166989706-a6847539-2fda-4895-9c3b-bee6a015bc33.png)
