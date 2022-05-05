@@ -25,3 +25,7 @@ Renk Seçimi Bölümündeki Renkler,
 Güncelleme sonrası seçilen renklerden bir örnek,
 ![image](https://user-images.githubusercontent.com/50636585/166989514-ad4fec97-c239-4373-8529-52919a24df4a.png)
 ![image](https://user-images.githubusercontent.com/50636585/166989706-a6847539-2fda-4895-9c3b-bee6a015bc33.png)
+
+- Renk seçimi bölümündeki renk isimleri tamamen Türkçe hale getirildi! 21:28
+- ![image](https://user-images.githubusercontent.com/50636585/166992814-7047ebf5-b8ea-4c9d-814c-d92708f1b150.png)
+
